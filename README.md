@@ -1,2 +1,1 @@
-# bollinger
-some vague momentum strategies ideas
+stuff here
